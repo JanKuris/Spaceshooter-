@@ -48,7 +48,6 @@ if __name__ =="__main__":
             score_increment = meteors.move()
             meteors.draw(window)
             end = meteors.check_colision(ship)
-
        
         meteors.draw(window)
 

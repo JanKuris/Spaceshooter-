@@ -7,7 +7,7 @@ SH_IMG = "assets/playerShip2_blue.png"
 MET_1_IMG = "assets/ufoRed.png"
 
 SH_ROTATION = 360
-SH_SPEED = (8, 8)
+SH_SPEED = 5
 SH_POS = (450, 265) 
 
 AST_SPEED = (8, 8)
